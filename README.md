@@ -1,2 +1,2 @@
-# anuragbhardwaj1.github.io
+# AnuragBhardwaj1.github.io
 Experimenting with Github pages
